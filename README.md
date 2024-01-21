@@ -64,7 +64,7 @@ So, you just need to create and enter your virtual environment:
     ```
 2. **Build and Run the service using docker**
     ```bash
-    docker compose up--build
+    docker compose up --build
     or 
     docker compose build --no-cache # this will disable cache for a fresh image
     ```
