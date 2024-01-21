@@ -84,5 +84,5 @@ So, you just need to create and enter your virtual environment:
 1. GET /: The home page which provides the upload interface.
 2. POST /uploadfile/: Endpoint to upload an image for segmentation.
 
-##Contact
+## Contact
 For support or queries, reach out to me at sakshi.sharma@cri-paris.org
