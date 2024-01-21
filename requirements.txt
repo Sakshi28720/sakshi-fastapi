@@ -1,0 +1,12 @@
+matplotlib
+opencv-python
+timm
+matplotlib
+fastapi
+uvicorn
+torch
+torchvision
+numpy
+pillow
+python-multipart
+git+https://github.com/dhkim2810/MobileSAM.git#egg=mobile-sam
